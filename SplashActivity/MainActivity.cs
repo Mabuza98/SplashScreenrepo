@@ -3,6 +3,7 @@ using Android.OS;
 using Android.Support.V7.App;
 using Android.Util;
 using Android.Widget;
+using com.xamarin.sample.splashscreen;
 
 namespace splashscreen
 {
